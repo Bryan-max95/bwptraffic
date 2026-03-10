@@ -1,0 +1,5 @@
+{
+  "name": "bwp traffic: Advanced Network Simulation",
+  "description": "A sophisticated network simulation platform built with React and Gemini API. Design, connect, and simulate multi-vendor network topologies with real-time traffic visualization.",
+  "requestFramePermissions": []
+}
